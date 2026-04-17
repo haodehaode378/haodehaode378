@@ -7,8 +7,9 @@
 
 # 你好，我是 `好的好的378` 👋
 
+<img src="https://capsule-render.vercel.app/api?type=waving&height=180&section=header&text=Haodehaode378&fontSize=42&fontColor=00F5FF&animation=twinkling&color=0:0f0c29,50:302b63,100:24243e" alt="header" />
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=22&pause=1200&center=true&vCenter=true&width=980&lines=%E6%AC%A2%E8%BF%8E%E6%9D%A5%E5%88%B0%E6%88%91%E7%9A%84+GitHub+%E4%B8%BB%E9%A1%B5!;%E7%83%AD%E7%88%B1%E7%BC%96%E7%A8%8B%EF%BC%8C%E6%8C%81%E7%BB%AD%E8%BE%93%E5%87%BA%EF%BC%8C%E6%8C%81%E7%BB%AD%E6%88%90%E9%95%BF;Code+%7C+Build+%7C+Ship+%7C+Repeat" alt="Typing SVG" />
-<img src="https://capsule-render.vercel.app/api?type=venom&height=120&text=Keep%20Building&fontSize=38&color=0:1f4037,100:99f2c8&fontColor=ffffff&stroke=0&animation=fadeIn" alt="banner" />
+<img src="https://capsule-render.vercel.app/api?type=venom&height=120&text=Keep%20Building&fontSize=38&color=0:00c6ff,100:0072ff&fontColor=ffffff&stroke=0&animation=fadeIn" alt="banner" />
 
 </div>
 
@@ -69,14 +70,6 @@
 
 ---
 
-## 成就奖杯
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=haodehaode378&theme=tokyonight&no-frame=true&margin-w=10&margin-h=10&row=1&column=7" />
-</div>
-
----
-
 ## 贪吃蛇贡献图
 
 <div align="center">
@@ -90,3 +83,5 @@
 ### 感谢访问，欢迎交流与合作 ⭐
 
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:0f0c29,50:302b63,100:24243e" alt="footer" />
