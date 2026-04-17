@@ -1,35 +1,35 @@
-﻿<!--
-  GitHub Profile README Template
-  已替换为用户名：haodehaode378
+<!--
+  GitHub Profile README
+  用户名：haodehaode378
 -->
 
 <div align="center">
 
-# Hi there, I'm `YOUR_NAME` 👋
+# 你好，我是 `好的好的378` 👋
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=22&pause=1200&center=true&vCenter=true&width=900&lines=Welcome+to+my+GitHub+Profile!;Code+%7C+Build+%7C+Ship+%7C+Repeat;Always+Learning+Something+New" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=22&pause=1200&center=true&vCenter=true&width=980&lines=%E6%AC%A2%E8%BF%8E%E6%9D%A5%E5%88%B0%E6%88%91%E7%9A%84+GitHub+%E4%B8%BB%E9%A1%B5!;%E7%83%AD%E7%88%B1%E7%BC%96%E7%A8%8B%EF%BC%8C%E6%8C%81%E7%BB%AD%E8%BE%93%E5%87%BA%EF%BC%8C%E6%8C%81%E7%BB%AD%E6%88%90%E9%95%BF;Code+%7C+Build+%7C+Ship+%7C+Repeat" alt="Typing SVG" />
 
 </div>
 
 <div align="center">
 
-[![Profile Views](https://komarev.com/ghpvc/?username=haodehaode378&style=for-the-badge&color=0e75b6)](https://github.com/haodehaode378)
-[![Followers](https://img.shields.io/github/followers/haodehaode378?logo=github&style=for-the-badge)](https://github.com/haodehaode378)
-[![Stars](https://img.shields.io/github/stars/haodehaode378?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge)](https://github.com/haodehaode378?tab=repositories)
+[![访问量](https://komarev.com/ghpvc/?username=haodehaode378&style=for-the-badge&color=0e75b6)](https://github.com/haodehaode378)
+[![关注者](https://img.shields.io/github/followers/haodehaode378?logo=github&style=for-the-badge)](https://github.com/haodehaode378)
+[![Star 总数](https://img.shields.io/github/stars/haodehaode378?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge)](https://github.com/haodehaode378?tab=repositories)
 
 </div>
 
 ---
 
-## About Me
+## 关于我
 
-- I am passionate about building useful and beautiful software.
-- I enjoy backend, frontend, automation, and AI-related projects.
-- I value pragmatic engineering, clean code, and fast iteration.
+- 我专注于做有价值、能落地的软件项目。
+- 我长期关注后端、前端、自动化与 AI 相关技术。
+- 我重视代码质量、工程效率与持续迭代。
 
 ---
 
-## Tech Stack
+## 技术栈
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=python,java,cpp,js,ts,vue,react,nodejs,fastapi,spring,mysql,postgres,redis,docker,git,linux,vscode,idea&perline=9" />
@@ -37,7 +37,7 @@
 
 ---
 
-## GitHub Stats
+## GitHub 数据看板
 
 <div align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=haodehaode378&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
@@ -50,7 +50,7 @@
 
 ---
 
-## Activity Graph
+## 活跃度趋势
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=haodehaode378&theme=tokyo-night&hide_border=true&area=true" />
@@ -58,7 +58,7 @@
 
 ---
 
-## Trophies
+## 成就奖杯
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=haodehaode378&theme=tokyonight&no-frame=true&margin-w=10&margin-h=10&row=1&column=7" />
@@ -66,7 +66,7 @@
 
 ---
 
-## Contribution Snake
+## 贪吃蛇贡献图
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/haodehaode378/haodehaode378/output/snake.svg" alt="Snake animation" />
@@ -74,11 +74,11 @@
 
 ---
 
-## Connect With Me
+## 站点与内容
 
 <div align="center">
 
-[![Blog](https://img.shields.io/badge/Blog-Website-orange?style=for-the-badge&logo=google-chrome)](https://college-github-io.pages.dev/)
+[![博客](https://img.shields.io/badge/Blog-Website-orange?style=for-the-badge&logo=google-chrome)](https://college-github-io.pages.dev/)
 [![CSDN](https://img.shields.io/badge/CSDN-Profile-red?style=for-the-badge)](https://blog.csdn.net/haodehaode378)
 
 </div>
@@ -87,8 +87,7 @@
 
 <div align="center">
 
-### Thanks for visiting! ⭐
+### 感谢访问，欢迎交流与合作 ⭐
 
 </div>
-
 
