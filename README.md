@@ -8,6 +8,7 @@
 # 你好，我是 `好的好的378` 👋
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=22&pause=1200&center=true&vCenter=true&width=980&lines=%E6%AC%A2%E8%BF%8E%E6%9D%A5%E5%88%B0%E6%88%91%E7%9A%84+GitHub+%E4%B8%BB%E9%A1%B5!;%E7%83%AD%E7%88%B1%E7%BC%96%E7%A8%8B%EF%BC%8C%E6%8C%81%E7%BB%AD%E8%BE%93%E5%87%BA%EF%BC%8C%E6%8C%81%E7%BB%AD%E6%88%90%E9%95%BF;Code+%7C+Build+%7C+Ship+%7C+Repeat" alt="Typing SVG" />
+<img src="https://capsule-render.vercel.app/api?type=venom&height=120&text=Keep%20Building&fontSize=38&color=0:1f4037,100:99f2c8&fontColor=ffffff&stroke=0&animation=fadeIn" alt="banner" />
 
 </div>
 
@@ -21,11 +22,13 @@
 
 ---
 
-## 关于我
+<div align="center">
 
-- 我专注于做有价值、能落地的软件项目。
-- 我长期关注后端、前端、自动化与 AI 相关技术。
-- 我重视代码质量、工程效率与持续迭代。
+[![博客](https://img.shields.io/badge/Blog-Website-ff8c00?style=for-the-badge&logo=google-chrome&logoColor=white)](https://college-github-io.pages.dev/)
+[![CSDN](https://img.shields.io/badge/CSDN-Profile-e60012?style=for-the-badge)](https://blog.csdn.net/haodehaode378)
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/haodehaode378)
+
+</div>
 
 ---
 
@@ -46,6 +49,14 @@
 
 <div align="center">
   <img height="170" src="https://streak-stats.demolab.com?user=haodehaode378&theme=tokyonight&hide_border=true&date_format=%5BY.%5Dn.j" />
+</div>
+
+---
+
+## 综合概览
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=haodehaode378&theme=tokyonight" />
 </div>
 
 ---
@@ -74,20 +85,8 @@
 
 ---
 
-## 站点与内容
-
-<div align="center">
-
-[![博客](https://img.shields.io/badge/Blog-Website-orange?style=for-the-badge&logo=google-chrome)](https://college-github-io.pages.dev/)
-[![CSDN](https://img.shields.io/badge/CSDN-Profile-red?style=for-the-badge)](https://blog.csdn.net/haodehaode378)
-
-</div>
-
----
-
 <div align="center">
 
 ### 感谢访问，欢迎交流与合作 ⭐
 
 </div>
-
