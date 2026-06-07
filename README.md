@@ -9,7 +9,7 @@
 
 # 你好，我是 `好的好的378`
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=22&pause=1200&center=true&vCenter=true&width=900&lines=%E7%83%AD%E7%88%B1%E7%BC%96%E7%A8%8B%EF%BC%8C%E4%BF%9D%E6%8C%81%E8%BE%93%E5%87%BA%EF%BC%8C%E6%8C%81%E7%BB%AD%E6%88%90%E9%95%BF;Python+%7C+Java+%7C+Vue+%7C+React+%7C+Node.js;Code+%7C+Build+%7C+Ship+%7C+Repeat" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=22&pause=1200&center=true&vCenter=true&width=900&lines=%E7%83%AD%E7%88%B1%E7%BC%96%E7%A8%8B%EF%BC%8C%E4%BF%9D%E6%8C%81%E8%BE%93%E5%87%BA%EF%BC%8C%E6%8C%81%E7%BB%AD%E6%88%90%E9%95%BF;Python+%7C+Java+%7C+Vue+%7C+React+%7C+Node.js;AI+Tools+%7C+Code+%7C+Build+%7C+Ship" alt="Typing SVG" />
 
 <p>
   <a href="https://github.com/haodehaode378">
@@ -41,9 +41,9 @@
 
 ## 关于我
 
-- 关注后端开发、前端工程化和实用型项目构建。
+- 关注后端开发、前端工程化、AI 辅助编程和实用型项目构建。
 - 常用技术覆盖 Python、Java、C++、JavaScript/TypeScript、Vue、React、Node.js、FastAPI、Spring 等。
-- 喜欢把想法落到可运行的项目里，持续学习，也持续输出。
+- 喜欢把想法落到可运行的项目里，用工具提升效率，也保持持续学习和持续输出。
 
 ---
 
@@ -52,6 +52,34 @@
 <div align="center">
   <img src="https://skillicons.dev/icons?i=python,java,cpp,js,ts,vue,react,nodejs,fastapi,spring,mysql,postgres,redis,docker,git,linux,vscode,idea&perline=9" alt="Tech stack icons" />
 </div>
+
+---
+
+## AI 工具箱
+
+<div align="center">
+  <img src="https://img.shields.io/badge/ChatGPT-探索与辅助开发-10A37F?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT" />
+  <img src="https://img.shields.io/badge/GitHub%20Copilot-代码补全与重构-000000?style=for-the-badge&logo=githubcopilot&logoColor=white" alt="GitHub Copilot" />
+  <img src="https://img.shields.io/badge/Cursor-AI%20IDE-2D2D2D?style=for-the-badge&logo=cursor&logoColor=white" alt="Cursor" />
+  <img src="https://img.shields.io/badge/Claude-长文本理解-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude" />
+  <img src="https://img.shields.io/badge/DeepSeek-代码与推理-4D6BFF?style=for-the-badge" alt="DeepSeek" />
+  <img src="https://img.shields.io/badge/通义千问-中文场景-FF6A00?style=for-the-badge" alt="通义千问" />
+</div>
+
+### 我常用 AI 做什么
+
+- 辅助理解需求、拆解任务和梳理实现方案。
+- 快速生成代码草稿、单元测试、接口文档和项目说明。
+- 做代码审查、错误排查、重构建议和学习笔记整理。
+
+---
+
+## 正在关注
+
+- AI Agent 与自动化工作流
+- 全栈项目工程化与部署
+- 后端服务性能优化
+- 前端组件化与交互体验
 
 ---
 
