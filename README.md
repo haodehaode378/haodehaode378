@@ -58,19 +58,17 @@
 ## AI 工具箱
 
 <div align="center">
-  <img src="https://img.shields.io/badge/ChatGPT-探索与辅助开发-10A37F?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT" />
-  <img src="https://img.shields.io/badge/GitHub%20Copilot-代码补全与重构-000000?style=for-the-badge&logo=githubcopilot&logoColor=white" alt="GitHub Copilot" />
-  <img src="https://img.shields.io/badge/Cursor-AI%20IDE-2D2D2D?style=for-the-badge&logo=cursor&logoColor=white" alt="Cursor" />
-  <img src="https://img.shields.io/badge/Claude-长文本理解-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude" />
-  <img src="https://img.shields.io/badge/DeepSeek-代码与推理-4D6BFF?style=for-the-badge" alt="DeepSeek" />
-  <img src="https://img.shields.io/badge/通义千问-中文场景-FF6A00?style=for-the-badge" alt="通义千问" />
+  <img src="https://img.shields.io/static/v1?label=&message=ChatGPT&color=10A37F&style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT" />
+  <img src="https://img.shields.io/static/v1?label=&message=GitHub%20Copilot&color=000000&style=for-the-badge&logo=githubcopilot&logoColor=white" alt="GitHub Copilot" />
+  <img src="https://img.shields.io/static/v1?label=&message=Cursor&color=2D2D2D&style=for-the-badge&logo=cursor&logoColor=white" alt="Cursor" />
+  <img src="https://img.shields.io/static/v1?label=&message=Claude&color=D97757&style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude" />
+  <img src="https://img.shields.io/static/v1?label=&message=DeepSeek&color=4D6BFF&style=for-the-badge" alt="DeepSeek" />
+  <img src="https://img.shields.io/static/v1?label=&message=通义千问&color=FF6A00&style=for-the-badge" alt="通义千问" />
+  <img src="https://img.shields.io/static/v1?label=&message=Codex&color=111827&style=for-the-badge&logo=openai&logoColor=white" alt="Codex" />
+  <img src="https://img.shields.io/static/v1?label=&message=Claude%20Code&color=D97757&style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude Code" />
+  <img src="https://img.shields.io/static/v1?label=&message=Antigravity&color=4285F4&style=for-the-badge" alt="Antigravity" />
+  <img src="https://img.shields.io/static/v1?label=&message=Qoder%20Work&color=6366F1&style=for-the-badge" alt="Qoder Work" />
 </div>
-
-### 我常用 AI 做什么
-
-- 辅助理解需求、拆解任务和梳理实现方案。
-- 快速生成代码草稿、单元测试、接口文档和项目说明。
-- 做代码审查、错误排查、重构建议和学习笔记整理。
 
 ---
 
