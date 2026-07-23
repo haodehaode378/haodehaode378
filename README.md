@@ -50,8 +50,8 @@
 ## 📝 最新博客 / Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [在树莓派终端前，我发现自己可能并不会写代码](https://college-github-io.pages.dev/posts/5afce479/)
-- [深圳，不只是有大厂，还有我想去的大学](https://college-github-io.pages.dev/posts/7cf27537/)
+- [在树莓派终端前，才发现自己并不真的会写代码](https://college-github-io.pages.dev/posts/5afce479/)
+- [深圳不止有大厂，还有多座向往的大学](https://college-github-io.pages.dev/posts/7cf27537/)
 - [读《在 AI 浪潮下，如何留在牌桌上》：AI 时代，我想成为怎样的开发者](https://college-github-io.pages.dev/posts/20021fb6/)
 - [AI 的下一个关键词，不是 Agent，而是 Loop](https://college-github-io.pages.dev/posts/8f3a2c19/)
 - [数据库第六章作业答案](https://college-github-io.pages.dev/posts/858cdf7e/)
