@@ -1,0 +1,33 @@
+name: Latest blog posts
+
+# 抓取博客 atom.xml，把最新文章渲染进 README
+# 源: https://github.com/gautamkrishnar/blog-post-workflow
+
+on:
+  schedule:
+    # 每 6 小时更新一次（GitHub 对闲置 60 天的仓库会停用定时任务，保持仓库活跃即可）
+    - cron: '17 */6 * * *'
+  workflow_dispatch: {}
+  push:
+    branches: [main]
+    paths:
+      - '.github/workflows/blog-post-workflow.yml'
+
+jobs:
+  update-readme:
+    name: Update README with latest blog posts
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Pull latest posts into README
+        uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          max_post_count: '5'
+          feed_list: 'https://college-github-io.pages.dev/atom.xml'
+          readme_template: '- 📝 **[$title]($url)**　·　`$date`'
+          date_format: 'yyyy-MM-dd'
+          commit_message: 'chore: update latest blog posts'

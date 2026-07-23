@@ -47,6 +47,17 @@
 
 ---
 
+## 📝 最新博客 / Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+<!-- 此区块由 .github/workflows/blog-post-workflow.yml 自动更新，请勿手动编辑 -->
+<!-- 首次推送后，GitHub Action 会在此填充最新文章 -->
+<!-- BLOG-POST-LIST:END -->
+
+📖 完整博客：<a href="https://college-github-io.pages.dev/">college-github-io.pages.dev</a>
+
+---
+
 ## 技术栈
 
 <div align="center">
