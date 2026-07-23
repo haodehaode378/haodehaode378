@@ -28,6 +28,6 @@ jobs:
         with:
           max_post_count: '5'
           feed_list: 'https://college-github-io.pages.dev/atom.xml'
-          template: '- 📝 **[$title]($url)**　·　`$date`'
-          date_format: 'yyyy-MM-dd'
+          template: '$newline- 📝 **[$title]($url)** · `$date`'
+          date_format: 'yyyy-mm-dd'
           commit_message: 'chore: update latest blog posts'
