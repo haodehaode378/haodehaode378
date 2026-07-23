@@ -50,8 +50,11 @@
 ## 📝 最新博客 / Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-<!-- 此区块由 .github/workflows/blog-post-workflow.yml 自动更新，请勿手动编辑 -->
-<!-- 首次推送后，GitHub Action 会在此填充最新文章 -->
+- [在树莓派终端前，我发现自己可能并不会写代码](https://college-github-io.pages.dev/posts/5afce479/)
+- [深圳，不只是有大厂，还有我想去的大学](https://college-github-io.pages.dev/posts/7cf27537/)
+- [读《在 AI 浪潮下，如何留在牌桌上》：AI 时代，我想成为怎样的开发者](https://college-github-io.pages.dev/posts/20021fb6/)
+- [AI 的下一个关键词，不是 Agent，而是 Loop](https://college-github-io.pages.dev/posts/8f3a2c19/)
+- [数据库第六章作业答案](https://college-github-io.pages.dev/posts/858cdf7e/)
 <!-- BLOG-POST-LIST:END -->
 
 📖 完整博客：<a href="https://college-github-io.pages.dev/">college-github-io.pages.dev</a>
