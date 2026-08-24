@@ -102,10 +102,6 @@ Full archive: <a href="https://college-github-io.pages.dev/">college-github-io.p
   <img height="168" src="https://github-readme-stats.vercel.app/api/top-langs/?username=haodehaode378&layout=compact&theme=tokyonight&hide_border=true&card_width=360" alt="Top languages" />
 </div>
 
-<div align="center">
-  <img height="168" src="https://streak-stats.demolab.com?user=haodehaode378&theme=tokyonight&hide_border=true&date_format=%5BY.%5Dn.j" alt="GitHub streak" />
-</div>
-
 ---
 
 ## Contribution Overview
