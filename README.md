@@ -94,15 +94,6 @@ Full archive: <a href="https://college-github-io.pages.dev/">college-github-io.p
 
 ---
 
-## GitHub Metrics
-
-<div align="center">
-  <img height="168" src="https://github-readme-stats.vercel.app/api?username=haodehaode378&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&card_width=420" alt="GitHub stats" />
-  <img height="168" src="https://github-readme-stats.vercel.app/api/top-langs/?username=haodehaode378&layout=compact&theme=tokyonight&hide_border=true&card_width=360" alt="Top languages" />
-</div>
-
----
-
 ## Contribution Overview
 
 <div align="center">
