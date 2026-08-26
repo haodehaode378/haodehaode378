@@ -50,11 +50,11 @@
 ## Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- 📝 **[20岁，我开始认真看自己的身体健康了](https://college-github-io.pages.dev/posts/b5fde576/)** · `2026-08-26`
 - 📝 **[午饭这件小事](https://college-github-io.pages.dev/posts/90b2b394/)** · `2026-07-26`
 - 📝 **[如同嚼蜡——观《功夫女足》有感](https://college-github-io.pages.dev/posts/cfb3fc1c/)** · `2026-07-23`
 - 📝 **[在树莓派终端前，才发现自己并不真的会写代码](https://college-github-io.pages.dev/posts/5afce479/)** · `2026-07-22`
-- 📝 **[深圳不止有大厂，还有多座向往的大学](https://college-github-io.pages.dev/posts/7cf27537/)** · `2026-07-22`
-- 📝 **[读《在 AI 浪潮下，如何留在牌桌上》：AI 时代，我想成为怎样的开发者](https://college-github-io.pages.dev/posts/20021fb6/)** · `2026-07-21`<!-- BLOG-POST-LIST:END -->
+- 📝 **[深圳不止有大厂，还有多座向往的大学](https://college-github-io.pages.dev/posts/7cf27537/)** · `2026-07-22`<!-- BLOG-POST-LIST:END -->
 
 Full archive: <a href="https://college-github-io.pages.dev/">college-github-io.pages.dev</a>
 
